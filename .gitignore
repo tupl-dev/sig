@@ -1,0 +1,14 @@
+# rust
+**/*.rs.bk
+**/mutants.out*/
+*.pdb
+Cargo.lock
+debug/
+target/
+
+# ide
+.idea/
+.vscode/
+
+# environment
+.DS_Store
